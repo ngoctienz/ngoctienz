@@ -6,5 +6,5 @@
 😄 Pronouns: [He/Him, She/Her, They/Them]
 ⚡ Fun fact: Always curious to discover something new!
 ### 📊 My Github stats
-![Ngoc Tien Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoctienz)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienz)
+![Ngoc Tien Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoctienz&theme=dark&show_icons=true)
+/* ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienz) */
