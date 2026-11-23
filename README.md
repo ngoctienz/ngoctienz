@@ -7,7 +7,7 @@
 - 😄 **Pronouns:** He/Him
 
 ---
-
+<!--
 ### 💬 Languages
 
 <p align="left">
@@ -75,3 +75,4 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ngoctienz&theme=dark&border_radius=5&short_numbers=true" alt="GitHub Streak" />
 </p>
+-->
